@@ -34716,7 +34716,7 @@ var ZNavbar = function (_React$Component) {
             _react2.default.createElement(
               _reactstrap.NavbarBrand,
               { className: 'style', href: '/' },
-              _react2.default.createElement('img', { src: '/favicon.ico', height: 50 })
+              _react2.default.createElement('img', { src: './zelcashlogo.png', height: 50 })
             ),
             _react2.default.createElement(
               _reactstrap.Collapse,
