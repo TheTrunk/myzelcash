@@ -34716,7 +34716,7 @@ var ZNavbar = function (_React$Component) {
             _react2.default.createElement(
               _reactstrap.NavbarBrand,
               { className: 'style', href: '/' },
-              _react2.default.createElement('img', { src: '/favicon.ico', height: 50 })
+              _react2.default.createElement('img', { src: './zelcashlogo.png', height: 50 })
             ),
             _react2.default.createElement(
               _reactstrap.Collapse,
@@ -37728,7 +37728,7 @@ exports = module.exports = __webpack_require__(46)(undefined);
 
 
 // module
-exports.push([module.i, ".navbarstyle {\n    background: #2d2d2d;\n}\n.container {\n    max-width: 1200px;\n      margin: 0 auto;\n}\n.footerstyle{\nbackground: #2d2d2d;\n}\n.style{\ncolor: #ffffff;\nfont-family: sans-serif;\nline-height: 2;\nfont-size: 24px;\n}\n.style:hover{\ncolor: #bbbbbb;\n}\n.style2{\ncolor: #ffffff;\nfont-family: sans-serif;\nline-height: 2;\nfont-size: 18px;\n}\n.style2:hover{\ncolor: #bbbbbb;\n}\n.style2:focus{\ncolor: #bbbbbb;\n}\n\n.footerstyle a {\n    color: #ffffff;\n    font-weight: bold;\n}\n.footerstyle a:hover {\ncolor: #bbbbbb;\ntext-decoration: none;\n}\n\n.footerstyle p{\n    color: #ffffff;\n    font-family: sans-serif;\n    font-size: 16px;\n}\n.links a {\nfont-family: sans-serif;\nfont-size: 18px;\nfont-weight: bold;\n}\n\n.customtoggler {\n    border-color: #ffffff;\n    width: 40px;\n    height: 40px;\n    margin-top:8px;\n    background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg  viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E\");\n}\n.customtoggler:focus{\n    outline:0;\n}\n.outer {\n  width: 100%;\n  text-align: center;\n}\n.content-text{\n    text-align: center;\n    display: inline-block;\n}\n", ""]);
+exports.push([module.i, ".navbarstyle {\n    background: #142a59;\n 	background-image: url('background.png');\n		background-size: 100%;\n}\n.container {\n    max-width: 1200px;\n      margin: 0 auto;\n}\n.footerstyle{\nbackground: #182237;\n}\n.style{\ncolor: #ffffff;\nfont-family: sans-serif;\nline-height: 2;\nfont-size: 24px;\n}\n.style:hover{\ncolor: #bbbbbb;\n}\n.style2{\ncolor: #ffffff;\nfont-family: sans-serif;\nline-height: 2;\nfont-size: 18px;\n}\n.style2:hover{\ncolor: #bbbbbb;\n}\n.style2:focus{\ncolor: #bbbbbb;\n}\n\n.footerstyle a {\n    color: #ffffff;\n    font-weight: bold;\n}\n.footerstyle a:hover {\ncolor: #bbbbbb;\ntext-decoration: none;\n}\n\n.footerstyle p{\n    color: #ffffff;\n    font-family: sans-serif;\n    font-size: 16px;\n}\n.links a {\nfont-family: sans-serif;\nfont-size: 18px;\nfont-weight: bold;\n}\n\n.customtoggler {\n    border-color: #ffffff;\n    width: 40px;\n    height: 40px;\n    margin-top:8px;\n    background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg  viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E\");\n}\n.customtoggler:focus{\n    outline:0;\n}\n.outer {\n  width: 100%;\n  text-align: center;\n}\n.content-text{\n    text-align: center;\n    display: inline-block;\n}\n", ""]);
 
 // exports
 
