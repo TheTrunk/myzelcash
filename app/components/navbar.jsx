@@ -64,7 +64,7 @@ export default class ZNavbar extends React.Component {
         <NavbarToggler className="customtoggler" right onClick={this.toggleNavbar} />
         <div className="container">
         <NavbarBrand className="style" href='/'>
-          <img src="/favicon.ico" height={50}/>
+          <img src="./zelcashlogo.png" height={50}/>
         </NavbarBrand>
         <Collapse isOpen={this.state.isOpen} navbar>
           <Nav className='ml-auto' navbar>

@@ -1,12 +1,14 @@
 .navbarstyle {
-    background: #2d2d2d;
+    background: #142a59;
+    background-image: url('background.png');
+    background-size: 100%;
 }
 .container {
     max-width: 1200px;
       margin: 0 auto;
 }
 .footerstyle{
-background: #2d2d2d;
+background: #182237;
 }
 .style{
 color: #ffffff;
