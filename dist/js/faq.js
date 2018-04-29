@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 539);
+/******/ 	return __webpack_require__(__webpack_require__.s = 540);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -30765,19 +30765,25 @@ exports = module.exports = __webpack_require__(46)(undefined);
 
 
 // module
-exports.push([module.i, ".navbarstyle {\n    background: #142a59;\n 	background-image: url('background.png');\n		background-size: 100%;\n}\n.container {\n    max-width: 1200px;\n      margin: 0 auto;\n}\n.footerstyle{\nbackground: #182237;\n}\n.style{\ncolor: #ffffff;\nfont-family: sans-serif;\nline-height: 2;\nfont-size: 24px;\n}\n.style:hover{\ncolor: #bbbbbb;\n}\n.style2{\ncolor: #ffffff;\nfont-family: sans-serif;\nline-height: 2;\nfont-size: 18px;\n}\n.style2:hover{\ncolor: #bbbbbb;\n}\n.style2:focus{\ncolor: #bbbbbb;\n}\n\n.footerstyle a {\n    color: #ffffff;\n    font-weight: bold;\n}\n.footerstyle a:hover {\ncolor: #bbbbbb;\ntext-decoration: none;\n}\n\n.footerstyle p{\n    color: #ffffff;\n    font-family: sans-serif;\n    font-size: 16px;\n}\n.links a {\nfont-family: sans-serif;\nfont-size: 18px;\nfont-weight: bold;\n}\n\n.customtoggler {\n    border-color: #ffffff;\n    width: 40px;\n    height: 40px;\n    margin-top:8px;\n    background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg  viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E\");\n}\n.customtoggler:focus{\n    outline:0;\n}\n.outer {\n  width: 100%;\n  text-align: center;\n}\n.content-text{\n    text-align: center;\n    display: inline-block;\n}\n", ""]);
+exports.push([module.i, ".navbarstyle {\r\n    background: #142a59;\r\n    background-image: url(" + __webpack_require__(237) + ");\r\n    background-size: 100%;\r\n}\r\n.container {\r\n    max-width: 1200px;\r\n      margin: 0 auto;\r\n}\r\n.footerstyle{\r\nbackground: #182237;\r\n}\r\n.style{\r\ncolor: #ffffff;\r\nfont-family: sans-serif;\r\nline-height: 2;\r\nfont-size: 24px;\r\n}\r\n.style:hover{\r\ncolor: #bbbbbb;\r\n}\r\n.style2{\r\ncolor: #ffffff;\r\nfont-family: sans-serif;\r\nline-height: 2;\r\nfont-size: 18px;\r\n}\r\n.style2:hover{\r\ncolor: #bbbbbb;\r\n}\r\n.style2:focus{\r\ncolor: #bbbbbb;\r\n}\r\n\r\n.footerstyle a {\r\n    color: #ffffff;\r\n    font-weight: bold;\r\n}\r\n.footerstyle a:hover {\r\ncolor: #bbbbbb;\r\ntext-decoration: none;\r\n}\r\n\r\n.footerstyle p{\r\n    color: #ffffff;\r\n    font-family: sans-serif;\r\n    font-size: 16px;\r\n}\r\n.links a {\r\nfont-family: sans-serif;\r\nfont-size: 18px;\r\nfont-weight: bold;\r\n}\r\n\r\n.customtoggler {\r\n    border-color: #ffffff;\r\n    width: 40px;\r\n    height: 40px;\r\n    margin-top:8px;\r\n    background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg  viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E\");\r\n}\r\n.customtoggler:focus{\r\n    outline:0;\r\n}\r\n.outer {\r\n  width: 100%;\r\n  text-align: center;\r\n}\r\n.content-text{\r\n    text-align: center;\r\n    display: inline-block;\r\n}\r\n", ""]);
 
 // exports
 
 
 /***/ }),
-/* 237 */,
+/* 237 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "background.png";
+
+/***/ }),
 /* 238 */,
 /* 239 */,
 /* 240 */,
 /* 241 */,
 /* 242 */,
-/* 243 */
+/* 243 */,
+/* 244 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30797,31 +30803,31 @@ var _reactstrap = __webpack_require__(67);
 
 __webpack_require__(107);
 
-var _home = __webpack_require__(244);
+var _home = __webpack_require__(245);
 
 var _home2 = _interopRequireDefault(_home);
 
-var _redditAlien = __webpack_require__(245);
+var _redditAlien = __webpack_require__(246);
 
 var _redditAlien2 = _interopRequireDefault(_redditAlien);
 
-var _twitter = __webpack_require__(246);
+var _twitter = __webpack_require__(247);
 
 var _twitter2 = _interopRequireDefault(_twitter);
 
-var _bitcoin = __webpack_require__(247);
+var _bitcoin = __webpack_require__(248);
 
 var _bitcoin2 = _interopRequireDefault(_bitcoin);
 
-var _envelopeO = __webpack_require__(248);
+var _envelopeO = __webpack_require__(249);
 
 var _envelopeO2 = _interopRequireDefault(_envelopeO);
 
-var _github = __webpack_require__(249);
+var _github = __webpack_require__(250);
 
 var _github2 = _interopRequireDefault(_github);
 
-var _comments = __webpack_require__(250);
+var _comments = __webpack_require__(251);
 
 var _comments2 = _interopRequireDefault(_comments);
 
@@ -30969,7 +30975,7 @@ var ZFooter = function (_React$Component) {
 exports.default = ZFooter;
 
 /***/ }),
-/* 244 */
+/* 245 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31007,7 +31013,7 @@ exports.default = FaHome;
 module.exports = exports['default'];
 
 /***/ }),
-/* 245 */
+/* 246 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31045,7 +31051,7 @@ exports.default = FaRedditAlien;
 module.exports = exports['default'];
 
 /***/ }),
-/* 246 */
+/* 247 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31083,7 +31089,7 @@ exports.default = FaTwitter;
 module.exports = exports['default'];
 
 /***/ }),
-/* 247 */
+/* 248 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31121,7 +31127,7 @@ exports.default = FaBitcoin;
 module.exports = exports['default'];
 
 /***/ }),
-/* 248 */
+/* 249 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31159,7 +31165,7 @@ exports.default = FaEnvelopeO;
 module.exports = exports['default'];
 
 /***/ }),
-/* 249 */
+/* 250 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31197,7 +31203,7 @@ exports.default = FaGithub;
 module.exports = exports['default'];
 
 /***/ }),
-/* 250 */
+/* 251 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31235,7 +31241,6 @@ exports.default = FaComments;
 module.exports = exports['default'];
 
 /***/ }),
-/* 251 */,
 /* 252 */,
 /* 253 */,
 /* 254 */,
@@ -31523,7 +31528,8 @@ module.exports = exports['default'];
 /* 536 */,
 /* 537 */,
 /* 538 */,
-/* 539 */
+/* 539 */,
+/* 540 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31545,11 +31551,11 @@ var _navbar = __webpack_require__(219);
 
 var _navbar2 = _interopRequireDefault(_navbar);
 
-var _faq = __webpack_require__(540);
+var _faq = __webpack_require__(541);
 
 var _faq2 = _interopRequireDefault(_faq);
 
-var _footer = __webpack_require__(243);
+var _footer = __webpack_require__(244);
 
 var _footer2 = _interopRequireDefault(_footer);
 
@@ -31560,7 +31566,7 @@ _reactDom2.default.render(_react2.default.createElement(_faq2.default, null), do
 _reactDom2.default.render(_react2.default.createElement(_footer2.default, null), document.getElementById('footer'));
 
 /***/ }),
-/* 540 */
+/* 541 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
